@@ -1,0 +1,9 @@
+name: Eclypse-Hub
+version: 1.0
+author: ['Wydavix','MJlulu02']
+main: Plugins.EclypseHub.PluginsManageur.Main
+commands:
+    grade:
+    staffhelp:
+    ban:
+    unban:
